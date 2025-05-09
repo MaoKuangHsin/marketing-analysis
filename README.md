@@ -1,5 +1,4 @@
-# Furniture Marketing Analytics Case Study
-
+# Discount Analysis on Conversion Rate ( Furniture )
 This project explores how **discount rates** influence **conversion rates**, with additional insights by product category.
 
 ---

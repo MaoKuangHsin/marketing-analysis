@@ -4,7 +4,7 @@
 This project analyzes the relationship between discount rate and conversion rate to uncover insights for marketing strategy optimization.
 
 ## Files
-- `Castlery_Report.pdf`: Slide summary of key insights
+- `Report.pdf`: Slide summary of key insights
 - `analysis.ipynb`: Full working notebook with code and visualizations
 
 ## Key Insights

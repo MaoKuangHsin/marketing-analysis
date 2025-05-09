@@ -51,16 +51,10 @@ This project explores how **discount rates** influence **conversion rates**, wit
 
 ## 📂 File Structure
 
-- `notebook/analysis.ipynb`: Main Jupyter Notebook with data cleaning, visualization, and insights.
+- `notebook/furniture.ipynb`: Main Jupyter Notebook with data cleaning, visualization, and insights.
 - `presentation/`: Slides summarizing findings.
 - `data/`: Processed data used for analysis and plotting.
 
----
-
-## 🙋‍♀️ Author
-
-**Kuang-Hsin Mao**  
-🔗 [linkedin.com/in/cindymao109](https://linkedin.com/in/cindymao109)
 
 
 
